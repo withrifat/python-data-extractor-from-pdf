@@ -1,0 +1,24 @@
+[
+  {
+    "roll": "838776",
+    "institute": "50051 - Institute of Science",
+    "cgpa": 2.82,
+    "referred_subjects": [],
+    "status": "Passed",
+    "extra_note": "",
+    "file_name": "Diploma_8th_Sem_2010_Regulation.pdf",
+    "page": 1,
+    "extracted_at": "2026-05-20T02:01:30.473029"
+  },
+  {
+    "roll": "695662",
+    "institute": "50051 - Institute of Science",
+    "cgpa": 2.43,
+    "referred_subjects": [],
+    "status": "Passed",
+    "extra_note": "",
+    "file_name": "Diploma_8th_Sem_2010_Regulation.pdf",
+    "page": 2,
+    "extracted_at": "2026-05-20T02:01:30.548396"
+  }
+]
